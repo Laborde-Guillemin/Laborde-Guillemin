@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin&count_private=true) 
 
 ## Hi, I'm @Laborde-guillemin                                                     
 - 🌱 I'm interested by web development, 
