@@ -1,3 +1,4 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin) 
 
 ## Hi, I'm @Laborde-guillemin                                                     
 - 🌱 I'm interested by web development, 
@@ -6,13 +7,12 @@
 - 🌐 My Portolio website [Lien](https://www.guillemin-laborde.but-info.com/)ㅤ
 
 
-ㅤㅤㅤ![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin) [ ![Top Langs ](https://github-readme-stats.vercel. app/api/top-langs/?username=Laborde-Guillemin)] 
-
 
 
 <!--
 **Laborde-Guillemin/Laborde-Guillemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ㅤㅤㅤ
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
