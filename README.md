@@ -6,7 +6,7 @@
 - 🌐 My Portolio website [Lien](https://www.guillemin-laborde.but-info.com/)ㅤ
 
 
-ㅤㅤㅤ![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin)
+ㅤㅤㅤ![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin) [ ![Top Langs ](https://github-readme-stats.vercel. app/api/top-langs/?username=Laborde-Guillemin)] 
 
 
 
