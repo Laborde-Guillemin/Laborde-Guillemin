@@ -1,4 +1,14 @@
-### Hi there 👋
+
+## Hi, I'm @Laborde-guillemin                                                     
+- 🌱 I'm interested by web development, 
+- 💻 I’m currently learning: Java Script, and Python
+- 📫 How to reach me: labordeguillem1@gmail.com
+- 🌐 My Portolio website [Lien](https://www.guillemin-laborde.but-info.com/)ㅤ
+
+
+ㅤㅤㅤ![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin)
+
+
 
 <!--
 **Laborde-Guillemin/Laborde-Guillemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
