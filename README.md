@@ -4,7 +4,7 @@
 - 🌱 I'm interested by web development, 
 - 💻 I’m currently learning: Java Script, and Python
 - 📫 How to reach me: labordeguillem1@gmail.com
-- 🌐 My Portolio website [Lien](https://www.guillemin-laborde.but-info.com/)ㅤ
+- 🌐 My Portolio website [Lien](https://guillemin-laborde.but-info.com/)ㅤ
 
 
 
