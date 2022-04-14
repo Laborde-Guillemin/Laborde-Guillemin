@@ -3,10 +3,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laborde-Guillemin&langs_count=5&count_private=true)
 
 ## Hi, I'm @Laborde-guillemin                                                     
-- 🌱 I'm interested by web development, 
+- 🌱 I'm interested by web development, and networks🥲
 - 💻 I’m currently learning: Java Script, and Python
 - 📫 How to reach me: labordeguillem1@gmail.com
-- 🌐 My Portolio website [Lien](https://www.guillemin-laborde.but-info.com/)ㅤ
+- 🌐 My Portolio website [Lien](https://guillemin-laborde.but-info.com/)ㅤ
 
 
 
