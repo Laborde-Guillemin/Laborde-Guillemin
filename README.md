@@ -1,4 +1,6 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin&count_private=true) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Laborde-Guillemin&count_private=true&theme=tokyonight&show_icons=true) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laborde-Guillemin&langs_count=5&count_private=true)
 
 ## Hi, I'm @Laborde-guillemin                                                     
 - 🌱 I'm interested by web development, 
