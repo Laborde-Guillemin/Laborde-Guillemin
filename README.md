@@ -3,8 +3,7 @@
 
 ## Hi, I'm @Laborde-guillemin                                                     
 - 🌱 I'm interested by web development, 
-- 💻 I’m currently learning: Java Script, and Python
-- 📫 How to reach me: labordeguillem1@gmail.com
+- 💻 I’m currently learning: C++, C, and Python
 
 
 
